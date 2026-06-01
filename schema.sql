@@ -7,8 +7,3 @@
     description VARCHAR(50) NOT NULL
  );
 
- CREATE TABLE categories (
-    ID SERIAL PRIMARY KEY,
-    name VARCHAR(20) NOT NULL,
-    type VARCHAR(10) NOT NULL CHECK (type IN ('income', 'expense'))
- );

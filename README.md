@@ -27,4 +27,3 @@ a montly summary of user defined month can also be retrieved along with the net 
 3 Transaction model class
 4 Filter by date range
 5 Running total using window functions
-6 Integrate categories table for predefined category management
